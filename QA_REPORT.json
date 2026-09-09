@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [
+    "home: word count 965 is under target 1200",
+    "home: keyword density 0.033 is above target",
+    "home: word count 944 is under target 1200"
+  ],
+  "details": {
+    "planning": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "facts": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "content": {
+      "passed": true,
+      "errors": [],
+      "warnings": [
+        "home: word count 944 is under target 1200"
+      ]
+    },
+    "seo": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "internalLinks": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "assets": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "technical": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "theme": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

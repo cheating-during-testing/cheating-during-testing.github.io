@@ -1,0 +1,65 @@
+{
+  "gameName": "Cheating During Testing",
+  "mainKeyword": "cheating during testing",
+  "opportunityMode": "breakout_new_game",
+  "siteStrategy": "以单一核心实体首页承接游戏名、Roblox 属性、官方入口和基础玩法指南。当前仅发现一个经证实的独立意图簇；将近义查询合并到首页，避免在没有 exact-game 搜索证据或充分机制资料的情况下建立 Codes、物品、角色、测试答案、Tier List 或 Wiki 页面。",
+  "singlePageReason": "现有两个游戏专属关键词“cheating during testing”和“cheating during testing roblox”都指向同一游戏实体与基础入门需求，不构成独立子意图。虽然游戏整体趋势突破近期高位且实时玩家数较高，但没有 exact-game 查询证明玩家正在独立搜索 Codes、装备、Anxiety、Snitches、测试答案或其他机制；现有资料也缺少支撑这些主题形成至少 800 词独立高价值页面所需的具体数据。因此首发仅建立首页，并在出现新的游戏专属关键词或可靠机制资料后再扩展。",
+  "pages": [
+    {
+      "slug": "",
+      "pageType": "home",
+      "primaryKeyword": "cheating during testing",
+      "secondaryKeywords": [
+        "cheating during testing roblox"
+      ],
+      "searchIntent": "查找 Cheating During Testing 的 Roblox 游戏入口、开发者信息、核心玩法、基础机制与新手入门说明。",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": null,
+      "relatedSlugs": [],
+      "searchEvidence": [
+        "发现两个游戏专属精确查询：cheating during testing 与 cheating during testing roblox。",
+        "主游戏名查询在近 30 天从低位突破并维持增长。",
+        "整体趋势达到新的近期历史高位，最新趋势值为 18。",
+        "两个关键词均无可用月搜索量，因此未推测搜索量数值。",
+        "两个查询属于同一游戏实体与基础信息意图，应合并覆盖以避免关键词蚕食。"
+      ],
+      "gameEvidence": [
+        "Cheating During Testing 是 Roblox 上由 @ebenxzy 开发的 Beta 游戏。",
+        "实时玩家数为 34149，并位列 Top Trending 第 7 名和 Top Playing Now 第 46 名。",
+        "玩家需要在计时结束前完成测试，并在作弊时避开老师的视线。",
+        "完成测试可获得 Credits，且更高成绩会带来更高奖励。",
+        "游戏确认包含作弊道具、装备、Anxiety、Snitches、合作与背叛以及 Loadout 系统。",
+        "官方 Roblox 页面可作为游戏入口及核心事实的一手来源。"
+      ],
+      "reason": "完整游戏名具备精确查询和强劲的新游戏趋势，足以支持一个综合首页。首页可独立提供官方入口、游戏身份、玩法循环、Credits 与成绩奖励、老师检测、Anxiety、Snitches、装备及 Loadout 等基础内容，同时不会虚构尚未确认的系统细节。",
+      "selected": true,
+      "searchVolume": null,
+      "searchVolumeMonth": null,
+      "trendSignal": "rising",
+      "trendGrowth": null,
+      "trendBreakout": true,
+      "mergedKeywords": [
+        "cheating during testing",
+        "cheating during testing roblox"
+      ],
+      "opportunityScore": 90,
+      "selectionReason": "这是唯一通过证据筛选的独立意图簇。Primary 使用完整且自然的游戏名；带 Roblox 的近义查询被合并为 secondary，因为两者没有可用月搜索量差异，也没有独立玩家问题。",
+      "cannibalizationNotes": "不要另建 Cheating During Testing Roblox 页面；该查询与主游戏名意图完全重叠。未来子页必须使用包含完整游戏名或已验证别名的 Primary Keyword，并具有独立 exact-game 搜索证据。",
+      "deferred": false
+    }
+  ],
+  "planningSummary": {
+    "discoveredKeywordCount": 2,
+    "gameSpecificKeywordCount": 2,
+    "intentCount": 1,
+    "launchReadyIntentCount": 1,
+    "suggestedLaunchPages": 1,
+    "deferredCount": 0,
+    "strategyNotes": "按独立意图而非预设页数规划。输入中的 11 个机会没有提供对应关键词、独立玩家问题或逐项事实证据，不能据此建立 11 个页面。当前两个有效关键词合并为一个游戏概览意图。Codes 系统尚未确认；装备名称、价格与效果、Anxiety 规则、测试答案、Snitch 行为和更新历史也均不完整，因此这些主题既不首发，也不作为已验证的延期关键词机会。后续应监测包含完整游戏名的 codes、guide、items、equipment、anxiety、snitches、answers 和 updates 查询，再按独立意图与事实支持度扩展。",
+    "opportunityMode": "breakout_new_game",
+    "totalOpportunities": 1,
+    "launchCount": 1
+  },
+  "deferredOpportunities": []
+}

@@ -1,0 +1,64 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Cheating During Testing Wiki",
+  "shortName": "Cheating During Testing",
+  "description": "Independent Cheating During Testing Roblox wiki with sourced guides to answers, Credits, gadgets, teacher detection, Anxiety, codes, and BETA changes.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "ice-cyan",
+    "overrides": {
+      "background": "198 40% 9%",
+      "foreground": "190 35% 96%",
+      "card": "198 34% 14%",
+      "card-foreground": "190 35% 96%",
+      "primary": "187 92% 48%",
+      "primary-foreground": "198 50% 7%",
+      "secondary": "198 28% 20%",
+      "muted": "198 22% 20%",
+      "muted-foreground": "192 16% 72%",
+      "border": "198 24% 27%",
+      "radius": ".7rem",
+      "card-shadow": "0 24px 60px rgba(0, 40, 50, .3)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(187 92% 48% / .22), transparent 36%)",
+      "background-pattern": "linear-gradient(hsl(187 92% 48% / .04) 1px, transparent 1px), linear-gradient(90deg, hsl(187 92% 48% / .04) 1px, transparent 1px)",
+      "font-sans": "Inter, ui-sans-serif, system-ui, sans-serif"
+    }
+  },
+  "hosting": {
+    "siteUrl": "https://cheating-during-testing.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": "https://github.com/cheating-during-testing/cheating-during-testing.github.io/issues"
+  },
+  "repositoryUrl": "https://github.com/cheating-during-testing/cheating-during-testing.github.io",
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "github.com"
+  ],
+  "assets": {
+    "logo": "/images/logo.png",
+    "cover": "/images/banner.webp",
+    "openGraph": "/images/cheating-during-testing-og.svg",
+    "favicon": "/images/logo.png"
+  },
+  "game": {
+    "name": "Cheating During Testing",
+    "platform": "Roblox",
+    "developer": "@ebenxzy",
+    "genre": "",
+    "officialUrl": "https://www.roblox.com/games/98894876188248"
+  },
+  "seo": {
+    "titleTemplate": "%s | Cheating During Testing Wiki",
+    "defaultKeywords": [
+      "cheating during testing",
+      "cheating during testing roblox",
+      "cheating during testing wiki"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "gameName": "Cheating During Testing",
+  "pages": [
+    {
+      "slug": "",
+      "primaryKeyword": "cheating during testing",
+      "secondaryKeywords": [
+        "cheating during testing roblox"
+      ],
+      "title": "Cheating During Testing Roblox Guide [BETA]",
+      "description": "Play Cheating During Testing on Roblox and learn the confirmed test loop, teacher detection, Credits, Anxiety, Snitches, equipment, and loadouts.",
+      "h1": "Cheating During Testing Roblox Guide",
+      "lead": "Cheating During Testing is a Roblox beta game by @ebenxzy where you complete timed tests, earn Credits, and try to cheat without being seen by the teacher; use the official Roblox link to play, then follow the quick-start guide below.",
+      "outline": [
+        {
+          "h2": "Cheating During Testing: Roblox game overview",
+          "h3": [
+            "Official Roblox entry and beta status",
+            "Developer and confirmed game facts",
+            "What new players should expect"
+          ],
+          "contentGoal": "Answer the core entity and navigation intent immediately. Identify Cheating During Testing as a Roblox beta experience by @ebenxzy, provide the official Roblox CTA, and distinguish confirmed facts from details that are not yet documented."
+        },
+        {
+          "h2": "How to start a test and complete the core gameplay loop",
+          "h3": [
+            "Finish the test before time expires",
+            "Cheat without being seen by the teacher",
+            "Prioritize completion while managing risk"
+          ],
+          "contentGoal": "Provide a practical quick-start explanation based only on the confirmed loop: enter a timed test, complete it before the timer ends, and avoid teacher detection while cheating. Do not invent question types, timer lengths, or detection rules."
+        },
+        {
+          "h2": "Cheating During Testing Credits, grades, and rewards",
+          "h3": [
+            "How completed tests award Credits",
+            "Why higher grades matter",
+            "What reward details are still unknown"
+          ],
+          "contentGoal": "Explain the confirmed economy and reward relationship. State that completed tests award Credits and that higher grades provide larger rewards, while avoiding unsupported payout amounts, grade thresholds, or farming claims."
+        },
+        {
+          "h2": "Teacher detection and Anxiety during exams",
+          "h3": [
+            "Avoiding the teacher's view",
+            "Managing Anxiety as a confirmed system",
+            "Unknown detection rules and Anxiety effects"
+          ],
+          "contentGoal": "Cover the two confirmed pressure systems without overstating their mechanics. Explain that being seen cheating by the teacher is a central risk and that Anxiety must be managed, but label thresholds, effects, and exact detection rules as unconfirmed."
+        },
+        {
+          "h2": "Gadgets, equipment, and loadouts",
+          "h3": [
+            "Purchasable cheating gadgets",
+            "Equipment and gameplay preparation",
+            "Building a loadout"
+          ],
+          "contentGoal": "Describe the confirmed progression path: players can purchase cheating gadgets and equipment and build a loadout. Do not list item names, prices, statistics, effects, rarity, or recommended builds because those facts are unavailable."
+        },
+        {
+          "h2": "Friends, Snitches, cooperation, and betrayal",
+          "h3": [
+            "Teaming up with friends",
+            "How Snitches are described",
+            "What is unknown about multiplayer rules"
+          ],
+          "contentGoal": "Explain the social layer using sourced facts: players can cooperate with friends, while Snitches may expose players in exchange for Credits. Avoid claiming whether Snitches are NPCs, players, controllable roles, or governed by specific triggers."
+        },
+        {
+          "h2": "Confirmed facts and details not yet verified",
+          "h3": [
+            "Confirmed game systems",
+            "Unconfirmed codes, pets, and named characters",
+            "Why readers should check the official Roblox listing"
+          ],
+          "contentGoal": "Create the SERP gap around clear confirmed-versus-unknown labeling. Summarize what the supplied sources verify and explicitly state that no official redeemable-code system, pets, named character roster, update history, or detailed item data has been confirmed."
+        },
+        {
+          "h2": "Cheating During Testing beginner FAQ",
+          "h3": [
+            "Is Cheating During Testing on Roblox?",
+            "Who made Cheating During Testing?",
+            "What do players do in the game?",
+            "Does Cheating During Testing have codes?"
+          ],
+          "contentGoal": "Resolve common entity, access, gameplay, developer, and codes questions. Answer the first three from the Fact Pack and mark codes as unknown rather than inventing a code list."
+        }
+      ],
+      "minWordCount": 1200,
+      "targetWordCount": 1450,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.005,
+        "max": 0.03
+      },
+      "internalLinks": [],
+      "anchorTextPlan": [
+        "No internal child-page links are required at launch because this is the only approved page and there are no P1 child URLs.",
+        "Use descriptive external CTA anchor text such as \"Play Cheating During Testing on Roblox\" for the official Roblox URL.",
+        "Do not create a separate \"Cheating During Testing Roblox\" page or link to unsupported Codes, Items, Answers, Anxiety, Snitches, or Updates pages."
+      ],
+      "faq": [
+        "Is Cheating During Testing a Roblox game?",
+        "Who is the developer of Cheating During Testing?",
+        "What is the main objective in Cheating During Testing?",
+        "How do players earn Credits?",
+        "What happens if the teacher sees a player cheating?",
+        "What are Anxiety, Snitches, and loadouts in Cheating During Testing?",
+        "Does Cheating During Testing have official codes?",
+        "Are the game's equipment names, prices, and effects confirmed?"
+      ],
+      "sourceRequirements": [
+        "Use the official Roblox experience page as the primary source: https://www.roblox.com/games/98894876188248/Cheating-During-Testing",
+        "Cite or clearly attribute the official listing for the game title, beta status, developer @ebenxzy, timed tests, teacher detection, Credits, grades, gadgets, equipment, Anxiety, Snitches, teamwork, and loadouts.",
+        "Display a visible last-reviewed date using the supplied retrieval date: 2026-08-30; update it whenever the official Roblox listing is rechecked.",
+        "Use the Reddit search snippet only as secondary corroboration that players complete tests while trying not to be caught; do not use it to establish additional mechanics.",
+        "Do not publish codes, reward amounts, grade thresholds, item names, item prices, item statistics, Anxiety thresholds, Snitch rules, test answers, update dates, player limits, or named characters without a reliable source.",
+        "Label every unsupported or unavailable detail as unknown rather than filling the gap with assumptions.",
+        "Keep the first screen focused on a concise game explanation, Roblox beta status, official play CTA, and the section entry points or table of contents."
+      ]
+    }
+  ]
+}
