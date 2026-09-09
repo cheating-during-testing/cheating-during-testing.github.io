@@ -38,36 +38,17 @@ a { transition: color .18s ease, border-color .18s ease, background-color .18s e
 [data-native-ad-slot]:empty { display: none; }
 
 .responsive-banner-ad {
-  display: grid;
-  justify-items: center;
-  gap: .35rem;
+  width: 320px;
   max-width: 100%;
-  margin: 1.5rem auto 2rem;
+  margin: 0 auto;
+  font-size: 0;
+  line-height: 0;
   overflow: hidden;
 }
 
-.responsive-banner-ad__label {
-  margin: 0;
-  font-size: .75rem;
-  line-height: 1.25rem;
-  color: hsl(var(--muted-foreground));
-}
-
-.responsive-banner-ad__slot {
-  display: grid;
-  width: 320px;
-  min-height: 50px;
-  place-items: center;
-}
-
-[data-responsive-banner-ad][data-banner-unavailable] {
-  min-height: 0;
-}
-
 @media (min-width: 768px) {
-  .responsive-banner-ad__slot {
+  .responsive-banner-ad {
     width: 728px;
-    min-height: 90px;
   }
 }
 

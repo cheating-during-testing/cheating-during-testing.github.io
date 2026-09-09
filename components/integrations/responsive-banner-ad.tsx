@@ -49,7 +49,6 @@ export function ResponsiveBannerAd() {
     if (!host || !unit) return;
 
     host.replaceChildren();
-    delete host.dataset.bannerUnavailable;
     window.atOptions = {
       key: unit.key,
       format: unit.format,
@@ -65,7 +64,6 @@ export function ResponsiveBannerAd() {
     script.dataset.gameWikiBannerAd = unit.key;
     script.onerror = () => {
       host.replaceChildren();
-      host.dataset.bannerUnavailable = "true";
     };
     host.appendChild(script);
 
@@ -74,10 +72,5 @@ export function ResponsiveBannerAd() {
     };
   }, [unit]);
 
-  return (
-    <section className="responsive-banner-ad" aria-label="Advertisement">
-      <p className="responsive-banner-ad__label">Advertisement</p>
-      <div ref={hostRef} className="responsive-banner-ad__slot" data-responsive-banner-ad />
-    </section>
-  );
+  return <div ref={hostRef} className="responsive-banner-ad" data-responsive-banner-ad />;
 }
