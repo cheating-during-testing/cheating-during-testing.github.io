@@ -33,13 +33,13 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
 
         <nav
           aria-label="Primary navigation"
-          className={`${open ? "flex" : "hidden"} absolute inset-x-0 top-16 flex-col gap-1 border-b border-border bg-background p-4 shadow-theme lg:static lg:flex lg:flex-row lg:items-center lg:gap-1 lg:rounded-full lg:border lg:border-border/80 lg:bg-card/80 lg:p-1.5 lg:shadow-theme`}
+          className={`${open ? "flex" : "hidden"} absolute inset-x-0 top-16 flex-col gap-1 border-b border-border bg-background p-4 shadow-theme xl:static xl:flex xl:flex-row xl:items-center xl:gap-0.5 xl:rounded-full xl:border xl:border-border/80 xl:bg-card/80 xl:p-1 xl:shadow-theme`}
         >
           {links.map((link) => (
             <Link
               key={link.slug}
               href={routePath(link.slug)}
-              className="rounded-xl px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground lg:rounded-full lg:px-4"
+              className="rounded-xl px-3 py-2 text-sm font-bold text-muted-foreground transition hover:bg-secondary hover:text-foreground xl:rounded-full xl:px-2.5 xl:py-1.5 xl:text-xs"
               onClick={() => setOpen(false)}
             >
               {link.label}

@@ -1,5 +1,6 @@
 import type { CSSProperties, ReactNode } from "react";
 import { Analytics } from "@/components/integrations/analytics";
+import { SocialBar } from "@/components/integrations/social-bar";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SiteHeader } from "@/components/site/site-header";
 import { siteConfig } from "@/config/site";
@@ -29,6 +30,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <a href="#main-content" className="skip-link">Skip to content</a>
         <SiteHeader links={headerLinks} />
         <div id="main-content">{children}</div>
+        <SocialBar />
         <SiteFooter coreLinks={footerCoreLinks} legalLinks={legalLinks} />
       </body>
     </html>

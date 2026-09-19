@@ -39,7 +39,7 @@
         {"heading": "The exam loop", "paragraphs": ["Open the answer sheet, work through the paper, use gadgets in short windows and complete the test before the timer ends."], "bullets": ["Check whether the sheet is Version A or Version B.", "Keep the teacher in view before exposing the Phone.", "Use Credits to improve the part of the run that slows you down.", "Treat friends as partners only when you trust them not to snitch."]},
         {"heading": "A practical first goal", "paragraphs": ["Finish consistently before chasing 100%. Once the timer, answer sheet and Phone feel predictable, add the perfect-run route and upgrade decisions."]}
       ],
-      "links": [{"label": "Start the beginner guide", "slug": "cheating-during-testing-guide", "description": "Follow the full first-test route from lobby to rewards."}]
+      "links": [{"label": "Start the beginner guide", "slug": "cheating-during-testing-guide", "description": "Follow the full first-test route from lobby to rewards."}, {"label": "Check controls by device", "slug": "cheating-during-testing-controls", "description": "Use current PC, mobile, and controller interaction prompts."}]
     },
     {
       "id": "what-is-cheating-during-testing",
@@ -60,7 +60,7 @@
         "A common method is to mark every answer A first. When the Phone scans the sheet, answers that are already correct can be skipped, leaving a shorter list of question-number corrections. Keep skipped questions at A and change only the numbered choices the Phone returns.",
         "Check the version letter before copying a friend or video. Version A and Version B can use different answers, and a correction only belongs to the question number shown on the Phone. Review for blanks, double marks and numbering shifts before submitting."
       ],
-      "links": [{"label": "Use the current Answers method", "slug": "cheating-during-testing-answers", "description": "Follow Version A/B, All-A baseline and Phone corrections step by step."}]
+      "links": [{"label": "Use the current Answers method", "slug": "cheating-during-testing-answers", "description": "Follow Version A/B, All-A baseline and Phone corrections step by step."}, {"label": "Compare Version A vs B", "slug": "cheating-during-testing-test-versions", "description": "Confirm which test sheet you have before comparing answers."}]
     },
     {
       "id": "how-to-get-100-percent",
@@ -100,7 +100,7 @@
         "The Phone is the core answer-processing gadget: it photographs your sheet and returns corrections. The Smart Watch is used as timing support, while Smart Glasses are discussed as an alternate information route involving other players or answers.",
         "Choose by the problem you need to solve. Faster Phone processing helps reduce exposed time, timing support helps players who lose track of the clock, and information tools may suit coordinated play. Exact prices, stats and upgrade values can change during BETA, so check the current Shop card before spending."
       ],
-      "links": [{"label": "Browse items and loadouts", "slug": "cheating-during-testing-items", "description": "Compare Phone, Smart Watch and Smart Glasses use cases."}]
+      "links": [{"label": "Browse items and loadouts", "slug": "cheating-during-testing-items", "description": "Compare Phone, Smart Watch and Smart Glasses use cases."}, {"label": "Compare Phone upgrades", "slug": "cheating-during-testing-phone-upgrades", "description": "Choose an upgrade based on the bottleneck in your current runs."}]
     },
     {
       "id": "avoid-getting-caught",

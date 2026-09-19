@@ -5,7 +5,6 @@ import { getRelatedPages } from "@/content/registry";
 import { assetPath } from "@/lib/urls";
 import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
 import { ResponsiveBannerAd } from "@/components/integrations/responsive-banner-ad";
-import { SocialBar } from "@/components/integrations/social-bar";
 import { Breadcrumbs } from "./breadcrumbs";
 import { Faq } from "./faq";
 import { JsonLd } from "./json-ld";
@@ -39,13 +38,11 @@ export function SeoPage({ page }: { page: SeoPageDefinition }) {
         </section>
 
         <div className="site-container">
-          <NativeAdSlot />
-          <SocialBar />
           <ResponsiveBannerAd />
         </div>
 
         <div className="site-container space-y-20 py-14 sm:py-20">
-          <PageSections sections={page.sections} />
+          <PageSections sections={page.sections} afterFirstSection={<NativeAdSlot />} />
           {page.screenshots?.length ? (
             <section>
               <h2>Gameplay Screenshots</h2>
