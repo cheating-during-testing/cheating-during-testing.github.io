@@ -23,7 +23,7 @@ export function SiteHeader({ links }: { links: InternalLink[] }) {
 
         <button
           type="button"
-          className="rounded-lg border border-border p-2 text-foreground lg:hidden"
+          className="rounded-lg border border-border p-2 text-foreground xl:hidden"
           aria-label={open ? "Close navigation" : "Open navigation"}
           aria-expanded={open}
           onClick={() => setOpen((value) => !value)}
